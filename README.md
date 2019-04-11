@@ -1,1 +1,1 @@
-# react-infinite-month-picker
+# react-infinite-month
